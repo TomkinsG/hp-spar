@@ -1,0 +1,14 @@
+{
+    "MQTTusername": "spar",
+    "MQTTpassword": "########",
+    "MQTThostname": "localhost",
+    "MQTTport": 1883,
+    "MQTTidentity": "spar",
+    "sparExtendAlarm": 30,
+    "sparHeartbeat": 60,
+    "sparWeeklyTestDay": 1,
+    "sparWeeklyTestTimeHH": "09",
+    "sparWeeklyTestTimeMM": "00",
+    "sparDebug": true,
+    "sparCurrentDelay": 0.5
+}
